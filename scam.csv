@@ -1,0 +1,26 @@
+return_reason,label
+"Item was damaged",1
+"Just didn’t want it",0
+"Returned empty box",1
+"Wrong item delivered",0
+"No issues, changed mind",0
+"Product was fake",1
+"Item not as described",1
+"Bought by mistake",0
+"Missing accessories",1
+"Opened but unused",0
+"Returned a different product",1
+"Box was sealed, unused",0
+"Empty packaging returned",1
+"Didn’t like the color",0
+"Sent broken item back",1
+"Size did not fit",0
+"Replaced original with fake",1
+"Ordered by accident",0
+"Item never opened",0
+"Item used and returned",1
+"Returning for no reason",1
+"Accidental duplicate order",0
+"Tampered packaging",1
+"Customer remorse",0
+"Scuffed product sent back",1
